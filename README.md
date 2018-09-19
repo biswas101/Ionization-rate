@@ -15,7 +15,7 @@ Integration, Int(sigma.dE) is needed for this calculation, which is explained in
 ## Prerequisites:
 
 * Python 3
-* or Pycharm with related Packagages
+* or Pycharm with related Packages
 
 ## Author
 
