@@ -19,8 +19,8 @@ import math
 I=np.array([1E-6, 1E-5, 1E-4, 1E-3, 3E-3, 5E-3])    # current in [A]
 
 
-#dN_dQ = I*4.58E16
-dN_dt = I*4.58E3  # Assume 1mA current
+
+dN_dt = I*4.58E6  #
 
 #plt.plot(Pz, dN_dQ,marker='o', linestyle='--', color='b')
 plt.plot(I, dN_dt,marker='o', linestyle='--', color='b')
